@@ -1,0 +1,23 @@
+[33mcommit 6efe8b783deb8ab6a80380f1fbbd34830265c6b8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Nicholas Johannesen <nichvivacqua@gmail.com>
+Date:   Tue Mar 31 14:11:14 2026 -0300
+
+    adiciona README.md com instruções de uso e edição da agenda
+
+[33mcommit 64cc08d67b3c2bd1c109742202f924c6cad33c70[m
+Author: Nicholas Johannesen <nichvivacqua@gmail.com>
+Date:   Tue Mar 31 14:03:47 2026 -0300
+
+    adiciona implementação da busca e ordenação na agenda
+
+[33mcommit 7c7bf11f570b6ff46c1ab017534f304a02738c1b[m
+Author: alberto dos Santos Cezar <albertosantoscezar@gmail.com>
+Date:   Tue Mar 24 13:32:42 2026 -0300
+
+    adiciona arquivo inicial
+
+[33mcommit 882610871a3ab3cbc8262fe7c8aa0c49d63c5577[m
+Author: alberto dos Santos Cezar <albertosantoscezar@gmail.com>
+Date:   Tue Mar 24 13:18:50 2026 -0300
+
+    Adiciona o arquivo inicial
